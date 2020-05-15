@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nama",
+				"nama_lengkap"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"bak",
+				"background-image\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"hapus",
+				"hapususer"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"field",
+				"field3"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"fied",
+				"field2"
+			],
+			[
+				"nil",
+				"nilai_Tds"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"colo",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bg-",
+				"background-image"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"page",
+				"page-wrapper"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"co",
+				"col-md-4"
+			],
+			[
+				"md",
+				"col-md-12"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"pe",
+				"Perempuan"
+			],
+			[
+				"id",
+				"id_monitoring"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"jarak",
+				"jaraksensor"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"jenis",
+				"jenis_kelamin"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"t",
+				"getElementsByTagName"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"border-",
+				"border-width\tproperty"
+			],
+			[
+				"borde",
+				"border-width\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background-cl",
+				"background-color\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AdminLTE-master/cobachart.php",
+		"/C/xampp/htdocs/AdminLTE-master/index.html",
+		"/C/xampp/htdocs/neos/backupindex.php",
+		"/C/xampp/htdocs/neos/index.php",
+		"/C/xampp/htdocs/AdminLTE-master/proseslogin.php",
+		"/C/xampp/htdocs/neos/login.php",
+		"/C/xampp/htdocs/neos/logout.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/ubahpetugas.php",
+		"/C/xampp/htdocs/AdminLTE-master/ubahpetugas.php",
+		"/C/xampp/htdocs/AdminLTE-master/history.php",
+		"/C/xampp/htdocs/AdminLTE-master/komentar.php",
+		"/C/xampp/htdocs/AdminLTE-master/petugas.php",
+		"/C/xampp/htdocs/AdminLTE-master/tes.html",
+		"/C/xampp/htdocs/sensorlaut2/index.html",
+		"/C/xampp/htdocs/AdminLTE-master/hapususer.php",
+		"/C/xampp/htdocs/AdminLTE-master/hapusdata.php",
+		"/C/xampp/htdocs/neos/data.php",
+		"/C/xampp/htdocs/AdminLTE-master/index3.php",
+		"/C/xampp/htdocs/neos/home.php",
+		"/C/xampp/htdocs/AdminLTE-master/index2.html",
+		"/C/xampp/htdocs/AdminLTE-master/data.php",
+		"/C/xampp/htdocs/AdminLTE-master/datapetugas.php",
+		"/C/xampp/htdocs/AdminLTE-master/home.php",
+		"/C/xampp/htdocs/AdminLTE-master/pages/widgets.html",
+		"/C/xampp/htdocs/neos/readdata.php",
+		"/C/xampp/htdocs/neos/ambildata.js",
+		"/C/xampp/htdocs/AdminLTE-master/plugins/bootstrap/js/bootstrap.min.js",
+		"/C/xampp/htdocs/neos/css/bootstrap/bootstrap.css",
+		"/C/xampp/htdocs/sensorlaut2/komentar.php",
+		"/C/xampp/htdocs/neos/petugas.php",
+		"/C/xampp/htdocs/neos/hapususer.php",
+		"/C/xampp/htdocs/neos/dashboard.php",
+		"/C/xampp/htdocs/admin/index.html",
+		"/C/xampp/htdocs/coba/dashboard.php",
+		"/C/xampp/htdocs/coba/bootstrap/dist/css/bootstrap.css",
+		"/C/xampp/htdocs/neos/ambildata.php",
+		"/C/xampp/htdocs/neos/hapusdata.php",
+		"/C/xampp/htdocs/neos/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/neos/jquery.dataTables.min.js",
+		"/C/xampp/htdocs/neos/jquery-3.3.1.js",
+		"/C/xampp/htdocs/neos/css/bootstrap.css",
+		"/C/xampp/htdocs/neos/datatables.php",
+		"/C/xampp/htdocs/neos/css/bootstrap.min.css",
+		"/C/xampp/htdocs/neos/data.html",
+		"/C/xampp/htdocs/neos/css/dataTables.bootstrap4.min.css",
+		"/C/xampp/htdocs/sensorlaut2/contact.php",
+		"/C/xampp/htdocs/neos/indexneos.html",
+		"/C/xampp/htdocs/neos/contact.html",
+		"/C/xampp/htdocs/neos/blog.html",
+		"/C/xampp/htdocs/neos/assets/css/custom.css",
+		"/C/xampp/htdocs/neos/logs.php",
+		"/C/xampp/htdocs/sensorlaut2/chartd2.js",
+		"/C/xampp/htdocs/neos/services.html",
+		"/C/xampp/htdocs/neos/insertdata.php",
+		"/C/xampp/htdocs/neos/index.html",
+		"/D/PKL/get.js",
+		"/C/xampp/htdocs/neos/kirimkomentar.php",
+		"/C/xampp/htdocs/neos/tambahpetugas.php",
+		"/C/xampp/htdocs/sensorlaut2/ambilDatachart2.php",
+		"/C/xampp/htdocs/sensorlaut2/sensor/js/Chart.js",
+		"/C/xampp/htdocs/sensorlaut2/gauge/export-data.js",
+		"/C/xampp/htdocs/sensorlaut2/admin/linechart.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/laporanjarak.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/jarak.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/index.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/home.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/exportjarak.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/piechart.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/logs.php",
+		"/C/xampp/htdocs/sensorlaut2/admin/highchart.php",
+		"/C/xampp/htdocs/sensorlaut2/chartdinamis.js",
+		"/C/xampp/htdocs/sensorlaut2/index2.php",
+		"/C/xampp/htdocs/sensorlaut2/datasuhulive2.php",
+		"/C/xampp/htdocs/sensorlaut2/checkout.php",
+		"/C/xampp/htdocs/sensorlaut2/chart.php",
+		"/C/xampp/htdocs/sensorlaut2/ambilDatawaktu.php",
+		"/C/xampp/htdocs/sensorlaut2/ambilDatachart.php",
+		"/C/xampp/htdocs/sensorlaut2/chartd.js",
+		"/C/xampp/htdocs/neos/indexdatapetugas.php",
+		"/C/xampp/htdocs/neos/importdatapetugas.php",
+		"/C/xampp/htdocs/neos/exportuser.php",
+		"/C/xampp/htdocs/neos/exportjarak.php",
+		"/C/xampp/htdocs/neos/akunpetugas.php",
+		"/C/xampp/htdocs/sensorlaut2/index.php",
+		"/C/xampp/htdocs/neos/komentar.php",
+		"/C/xampp/htdocs/neos/koneksi.php",
+		"/D/PKL/Login_v3/index.html",
+		"/C/xampp/htdocs/neos/css/util.css",
+		"/C/xampp/htdocs/neos/css/main.css",
+		"/C/xampp/htdocs/neos/proseslogin.php",
+		"/C/xampp/htdocs/neos/assets/js/jquery-1.10.2.js",
+		"/C/xampp/htdocs/neos/jquery-1.12.1.min.js",
+		"/C/xampp/htdocs/neos/js/jquery-1.12.1.min.js",
+		"/C/xampp/htdocs/sensorlaut2/login.php",
+		"/D/PKL/login.php",
+		"/D/PKL/Login_v3/js/main.js",
+		"/C/xampp/htdocs/neos/js/main.js",
+		"/C/xampp/htdocs/neos/index2.php",
+		"/C/xampp/htdocs/neos/jarak.php",
+		"/C/xampp/htdocs/sensorlaut2/sensor.php",
+		"/C/xampp/htdocs/sensorlaut2/datasuhulive.php",
+		"/D/PKL/test.html",
+		"/D/PKL/jquery-1.12.1.min.js",
+		"/D/PKL/jsFunctionsArduFarmBot.js",
+		"/C/xampp/htdocs/neos/about.html",
+		"/C/xampp/htdocs/neos/css/animate.css",
+		"/C/xampp/htdocs/neos/scss/bootstrap/_navbar.scss",
+		"/C/xampp/htdocs/neos/scss/style.scss",
+		"/D/PKL/web monitoring/install.php",
+		"/C/xampp/htdocs/neos/faq.html",
+		"/D/PKL/web monitoring/html/js/dashboard1.js",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.min.js",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-js/dist/chartist-init.js",
+		"/D/PKL/web monitoring/html/galeri.css",
+		"/D/PKL/web monitoring/html/galeri.js",
+		"/D/PKL/web monitoring/html/map-google.html",
+		"/D/PKL/web monitoring/html/profile.html",
+		"/D/PKL/web monitoring/html/blank.html",
+		"/D/PKL/web monitoring/html/dashboard.html",
+		"/D/PKL/web monitoring/html/css/animate.css",
+		"/D/PKL/web monitoring/html/css/style.css",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-js/dist/chartist.js",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.js",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/src/css/chartist-plugin-tooltip.css",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css.map",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/src/scripts/chartist-plugin-tooltip.js",
+		"/D/PKL/web monitoring/plugins/bower_components/chartist-plugin-tooltip-master/Gruntfile.js"
+	],
+	"find":
+	{
+		"height": 42.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "petugas.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
